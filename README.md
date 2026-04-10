@@ -1,7 +1,7 @@
 - 👋 Hi, I am Ansh
-- 👀 I’m interested in software development, open source contribution, machine learning, cloud computing, developing usable inerfaces and writing data science articles/tutorials.
-- 🌱 I’m currently learning LOTS OF THINGS.
-- 💞️ I’m looking to collaborate on developing machine learning packages
+- 👀 I’m interested in all things AI
+- 🌱 I’m currently working as a Lead AI Engineer and developing AI for markets across India and Australia
+- 💞️ I’m looking to collaborate on developing path-breaking AI apps
 
 <!---
 anshbordia/anshbordia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
